@@ -1,161 +1,161 @@
 {
-  "date": "2026-10-13",
-  "captured_at": "2026-10-13T12:46:33.568Z",
+  "date": "2026-10-14",
+  "captured_at": "2026-10-14T12:39:51.782Z",
   "url": "https://account.monstersandmemories.com/metrics",
   "metrics": {
     "DAILY ACTIVE": {
-      "raw": "2136",
-      "value": 2136,
+      "raw": "2142",
+      "value": 2142,
       "source": "card"
     },
     "MONTHLY ACTIVE": {
-      "raw": "3859",
-      "value": 3859,
+      "raw": "3972",
+      "value": 3972,
       "source": "card"
     },
     "Online": {
-      "raw": "542",
-      "value": 542,
+      "raw": "190",
+      "value": 190,
       "source": "card"
     },
     "Players": {
-      "raw": "332",
-      "value": 332,
+      "raw": "109",
+      "value": 109,
       "source": "card"
     },
     "Ail'vorith": {
-      "raw": "24",
-      "value": 24,
+      "raw": "14",
+      "value": 14,
       "source": "card"
     },
     "Evershade Weald": {
-      "raw": "43",
-      "value": 43,
+      "raw": "14",
+      "value": 14,
       "source": "card"
     },
     "Night Harbor (East)": {
-      "raw": "82",
-      "value": 82,
+      "raw": "23",
+      "value": 23,
       "source": "card"
     },
     "Night Harbor (West)": {
-      "raw": "132",
-      "value": 132,
+      "raw": "48",
+      "value": 48,
       "source": "card"
     },
     "Underdocks": {
-      "raw": "51",
-      "value": 51,
+      "raw": "10",
+      "value": 10,
       "source": "card"
     },
     "DAILY ACTIVE (2)": {
-      "raw": "5875",
-      "value": 5875,
+      "raw": "5707",
+      "value": 5707,
       "source": "card"
     },
     "MONTHLY ACTIVE (2)": {
-      "raw": "10750",
-      "value": 10750,
+      "raw": "10997",
+      "value": 10997,
       "source": "card"
     },
     "Online (2)": {
-      "raw": "798",
-      "value": 798,
+      "raw": "362",
+      "value": 362,
       "source": "card"
     },
     "Players (2)": {
-      "raw": "403",
-      "value": 403,
+      "raw": "172",
+      "value": 172,
       "source": "card"
     },
     "Ail'vorith (2)": {
-      "raw": "26",
-      "value": 26,
+      "raw": "11",
+      "value": 11,
       "source": "card"
     },
     "Evershade Weald (2)": {
-      "raw": "66",
-      "value": 66,
+      "raw": "16",
+      "value": 16,
       "source": "card"
     },
     "Night Harbor (East) (2)": {
-      "raw": "92",
-      "value": 92,
+      "raw": "50",
+      "value": 50,
       "source": "card"
     },
     "Night Harbor (West) (2)": {
-      "raw": "137",
-      "value": 137,
+      "raw": "72",
+      "value": 72,
       "source": "card"
     },
     "Underdocks (2)": {
-      "raw": "82",
-      "value": 82,
+      "raw": "23",
+      "value": 23,
       "source": "card"
     },
     "DAILY ACTIVE (3)": {
-      "raw": "4470",
-      "value": 4470,
+      "raw": "4399",
+      "value": 4399,
       "source": "card"
     },
     "MONTHLY ACTIVE (3)": {
-      "raw": "7822",
-      "value": 7822,
+      "raw": "7972",
+      "value": 7972,
       "source": "card"
     },
     "Online (3)": {
-      "raw": "482",
-      "value": 482,
+      "raw": "227",
+      "value": 227,
       "source": "card"
     },
     "Players (3)": {
-      "raw": "253",
-      "value": 253,
+      "raw": "133",
+      "value": 133,
       "source": "card"
     },
     "Ail'vorith (3)": {
-      "raw": "20",
-      "value": 20,
+      "raw": "8",
+      "value": 8,
       "source": "card"
     },
     "Evershade Weald (3)": {
-      "raw": "45",
-      "value": 45,
+      "raw": "13",
+      "value": 13,
       "source": "card"
     },
     "Night Harbor (East) (3)": {
-      "raw": "45",
-      "value": 45,
+      "raw": "38",
+      "value": 38,
       "source": "card"
     },
     "Night Harbor (West) (3)": {
-      "raw": "81",
-      "value": 81,
+      "raw": "53",
+      "value": 53,
       "source": "card"
     },
     "Underdocks (3)": {
-      "raw": "62",
-      "value": 62,
+      "raw": "21",
+      "value": 21,
       "source": "card"
     },
     "DAILY ACTIVE (4)": {
-      "raw": "885",
-      "value": 885,
+      "raw": "1081",
+      "value": 1081,
       "source": "card"
     },
     "MONTHLY ACTIVE (4)": {
-      "raw": "1422",
-      "value": 1422,
+      "raw": "2144",
+      "value": 2144,
       "source": "card"
     },
     "Online (4)": {
-      "raw": "153",
-      "value": 153,
+      "raw": "51",
+      "value": 51,
       "source": "card"
     },
     "Players (4)": {
-      "raw": "51",
-      "value": 51,
+      "raw": "9",
+      "value": 9,
       "source": "card"
     },
     "Ail'vorith (4)": {
@@ -164,103 +164,93 @@
       "source": "card"
     },
     "Evershade Weald (4)": {
-      "raw": "3",
-      "value": 3,
-      "source": "card"
-    },
-    "Night Harbor": {
-      "raw": "38",
-      "value": 38,
+      "raw": "6",
+      "value": 6,
       "source": "card"
     },
     "Underdocks (4)": {
-      "raw": "9",
-      "value": 9,
-      "source": "card"
-    },
-    "DAILY ACTIVE (5)": {
-      "raw": "1124",
-      "value": 1124,
-      "source": "card"
-    },
-    "MONTHLY ACTIVE (5)": {
-      "raw": "2104",
-      "value": 2104,
-      "source": "card"
-    },
-    "Online (5)": {
-      "raw": "166",
-      "value": 166,
-      "source": "card"
-    },
-    "Players (5)": {
-      "raw": "60",
-      "value": 60,
-      "source": "card"
-    },
-    "Ail'vorith (5)": {
       "raw": "2",
       "value": 2,
       "source": "card"
     },
+    "DAILY ACTIVE (5)": {
+      "raw": "3279",
+      "value": 3279,
+      "source": "card"
+    },
+    "MONTHLY ACTIVE (5)": {
+      "raw": "6015",
+      "value": 6015,
+      "source": "card"
+    },
+    "Online (5)": {
+      "raw": "147",
+      "value": 147,
+      "source": "card"
+    },
+    "Players (5)": {
+      "raw": "86",
+      "value": 86,
+      "source": "card"
+    },
+    "Ail'vorith (5)": {
+      "raw": "4",
+      "value": 4,
+      "source": "card"
+    },
     "Evershade Weald (5)": {
-      "raw": "7",
-      "value": 7,
-      "source": "card"
-    },
-    "Night Harbor (2)": {
-      "raw": "41",
-      "value": 41,
-      "source": "card"
-    },
-    "Underdocks (5)": {
-      "raw": "10",
-      "value": 10,
-      "source": "card"
-    },
-    "DAILY ACTIVE (6)": {
-      "raw": "3287",
-      "value": 3287,
-      "source": "card"
-    },
-    "MONTHLY ACTIVE (6)": {
-      "raw": "5913",
-      "value": 5913,
-      "source": "card"
-    },
-    "Online (6)": {
-      "raw": "432",
-      "value": 432,
-      "source": "card"
-    },
-    "Players (6)": {
-      "raw": "240",
-      "value": 240,
-      "source": "card"
-    },
-    "Ail'vorith (6)": {
-      "raw": "19",
-      "value": 19,
-      "source": "card"
-    },
-    "Evershade Weald (6)": {
-      "raw": "33",
-      "value": 33,
+      "raw": "13",
+      "value": 13,
       "source": "card"
     },
     "Night Harbor (East) (4)": {
-      "raw": "46",
-      "value": 46,
+      "raw": "15",
+      "value": 15,
       "source": "card"
     },
     "Night Harbor (West) (4)": {
-      "raw": "95",
-      "value": 95,
+      "raw": "40",
+      "value": 40,
+      "source": "card"
+    },
+    "Underdocks (5)": {
+      "raw": "14",
+      "value": 14,
+      "source": "card"
+    },
+    "DAILY ACTIVE (6)": {
+      "raw": "853",
+      "value": 853,
+      "source": "card"
+    },
+    "MONTHLY ACTIVE (6)": {
+      "raw": "1445",
+      "value": 1445,
+      "source": "card"
+    },
+    "Online (6)": {
+      "raw": "56",
+      "value": 56,
+      "source": "card"
+    },
+    "Players (6)": {
+      "raw": "9",
+      "value": 9,
+      "source": "card"
+    },
+    "Ail'vorith (6)": {
+      "raw": "2",
+      "value": 2,
+      "source": "card"
+    },
+    "Evershade Weald (6)": {
+      "raw": "4",
+      "value": 4,
       "source": "card"
     },
     "Underdocks (6)": {
-      "raw": "47",
-      "value": 47,
+      "raw": "3",
+      "value": 3,
       "source": "card"
     }
   },
